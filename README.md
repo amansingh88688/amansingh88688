@@ -1,5 +1,5 @@
 - 👋 Hi, Myself Aman Singh
-- An Undergraduate student at Indian Institute of Technology Madras pursuing B.Tech 
+- 🎓 An Undergraduate student at Indian Institute of Technology Madras pursuing B.Tech 
 - 👀 Interested in Programming
 
 <!---
