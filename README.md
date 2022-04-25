@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @amansingh88688
-- 👀 I’m interested in programming, Hacking
+- 👀 Interested in programming, Hacking
 - 🌱 I’m currently learning C++
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
