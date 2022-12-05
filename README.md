@@ -81,13 +81,16 @@ Indian Institute of Technology, Madras, India<br>
 
 
 ## Github Stats  
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amansingh88688&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" align="left" width="350px"/>
-<img src="https://github-readme-stats.vercel.app/api?username=amansingh88688&theme=dark&hide_border=false&include_all_commits=false&count_private=false" align="left" width="350px"/>  
-
+ 
+      
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amansingh88688&theme=highcontrast&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+ 
+![Aman's GitHub stats](https://github-readme-stats.vercel.app/api?username=amansingh88688&show_icons=true&theme=highcontrast)
+   
   
+  <img align="left" width="350px" src="https://github-readme-streak-stats.herokuapp.com/?user=amansingh88688&theme=highcontrast" alt="amansingh88688" />
   
 
-<br/>   
   
 
 <br/> <br> 
