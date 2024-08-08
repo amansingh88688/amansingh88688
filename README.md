@@ -1,6 +1,6 @@
 
 ### Aman Singh  
-2nd year, B.Tech Chemical Engineering<br>
+Final year, B.Tech Chemical Engineering<br>
 Indian Institute of Technology, Madras, India<br>
 <a href="mailto: amankrj12345@gmail.com">E-mail</a> | <a href="https://www.linkedin.com/in/aman-singh-718493224/">LinkedIn</a> | <a href="https://www.instagram.com/amansingh88688/">Instagram</a> | <a href="github.com/amansingh88688">Github</a>  
   
